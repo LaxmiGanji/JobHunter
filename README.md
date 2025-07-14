@@ -49,11 +49,8 @@
 
 ##  Data Flow
 
-```
-User Input → Enhanced Query → Job Scraper → Database → Email Sender
-                         ↘                          ↘
-                       Scheduler             Job Logs UI
-```
+![Data Flow Diagram](./assets/dataflow.png)
+
 
 ---
 
